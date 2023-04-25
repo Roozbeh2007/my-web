@@ -27,3 +27,7 @@ img{
   #myBtn:hover {
     background-color: rgba(33, 37, 41, 0.95);
   }
+.ViewAll img:hover{
+    opacity: 0.9; 
+    content: url("../Images/ViewAllHover.png");
+}
